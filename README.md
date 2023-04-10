@@ -1,1 +1,3 @@
-# Breadth-Search-Algorithm
+# BreadthSearch Algorithm
+# install: 
+# $ node index.js
